@@ -48,12 +48,10 @@ class Kallyn:
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=A78BFA"/>
   <img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=windowsterminal&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=A78BFA"/>
   <img src="https://img.shields.io/badge/Nessus-111111?style=for-the-badge&logoColor=A78BFA"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-111111?style=for-the-badge&logo=raspberrypi&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Wirelles-111111?style=for-the-badge&logo=powershell&logoColor=A78BFA"/>
+    <img src="https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell&logoColor=A78BFA"/>
 </p>
 
 ## `./current-focus`
